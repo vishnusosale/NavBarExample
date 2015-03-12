@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rentongo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Electronics and Appliances</item>
+        <item >Furniture</item>
+        <item >Adventure Gear</item>
+        <item >Bikes and Scooters</item>
+        <item >More Categories</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    
+    <string name="how_it_works">How it works</string>
+    <string name="FAQ">FAQ</string>
+    <string name="about">About Rentongo</string>
+    <string name="contact">Contact us</string>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_selected_sub_category">SelectedSubCategoryActivity</string>
+
+    <string name="search">Search</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_type_of_customer">TypeOfCustomerActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_business_registration">BusinessRegistrationActivity</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+
+    <string-array name="city_array_spinner">
+        <item>Bangalore</item>
+        <item>Hyderabad</item>
+        <item>Pune</item>
+        <item>Delhi/NCR</item>
+        <item>Udaipur</item>
+        <item>Thrissur</item>
+        <item>Chennai</item>
+        <item>Ahmedabad</item>
+        <item>Mumbai</item>
+        <item>Mysore</item>
+        <item>Guwahati</item>
+        <item>Nashik</item>
+        <item>Kolkata</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
